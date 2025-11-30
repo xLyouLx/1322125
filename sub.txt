@@ -3,7 +3,6 @@ vless://ded39de0-6d5e-426b-90e8-b7dfeced29b2@wolfy.ufavpn.ru:42275?security=real
 
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?path=/?ed=2048&security=tls&encryption=none&fp=chrome&type=ws&sni=collections.yandex.ru#Yandex-Collections-62ms
 vless://c33cbceb-4a2a-4a22-b02a-e0de3e4795be@37.18.14.192:443?security=tls&encryption=none&fp=chrome&allowInsecure=1&type=ws&path=%2F&sni=travel.yandex.ru#Yandex-Travel-66ms
-vless://5f05f5c4-13a6-4e67-85f1-93b32bf85e52@46.29.234.92:29550?security=reality&encryption=none&pbk=aPVIbZXEkHpPedX9ix1r8Km2ZV1MgpuBjN0Qxkwx1zA&headerType=none&fp=chrome&type=tcp&sni=yandex.ru#Yandex-Reality-66ms
 vless://30dd2eea-fe78-4660-a04f-096a7dac41e3@yt.ducks.tel:443?security=reality&encryption=none&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru#Mirror-Yandex-68ms
 vless://7a0b6c85-ce1f-4de0-acd4-9e368d74f415@85.239.149.76:443?security=reality&encryption=none&pbk=4efItvVkLuH2AdiaNzDIzmyHT3yE4uWcql1L3xEPXko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=st.ozone.ru#Ozone-67ms
 vless://eb7c7631-6c7c-4f34-a65a-974b4565d01d@poland.geodema.network:8443?security=reality&encryption=none&pbk=8OsJx6xuHcpL_5e1w0U4bMBa-icevDgvvzNwPwZbORQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=music.yandex.ru#Yandex-Music-70ms
