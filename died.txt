@@ -1,3 +1,9 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXN0cGFzc3dvcmQ=@ss.example.com:443#ss-yandex.ru
+ss://YWVzLTI1Ni1nY206ZjQ5ZjU2N2M4N2Q1ZjQ5Zg==@ss.example.com:8443#ss-avito.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXN0@ss.example.com:2052#ss-vk.com
+ss://YWVzLTI1Ni1nY206YzYzYzQwMjk5OTFhNDVmZA==@ss.example.com:10928#ss-alfabank.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZjdhNDBmMDlmZjY0OGM3@ss.example.com:12622#ss-ozone.ru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXN0cGFzc3dvcmQ=@ss.example.com:443#ss-yandex.ru
 trojan://3c2342e553bd4746@trojan.example.com:63902?sni=yandex.ru&fp=chrome&security=tls&type=tcp#trojan-c2a842
 hy2://0dca7ca287994df8@hy2.example.com:26458?insecure=1&alpn=h3&sni=5post-gate.x5.ru#hy2-c8fc88
 trojan://dbe49e9487324f27@trojan.example.com:14581?sni=m.vk.ru&fp=chrome&security=tls&type=tcp#trojan-0916f2
